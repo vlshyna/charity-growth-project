@@ -2,28 +2,12 @@
 
 > An end-to-end growth and digital development project for a charity foundation dedicated to rescuing and caring for horses.
 
+<b>The overall goal</b> is to help the foundation build a stronger and more sustainable digital presence and explore ways to increase awareness, engagement, and donations.
+
 The project combines data analytics, social media strategy, marketing, experimentation, web development, and AI-powered tools to explore how a small charity can strengthen its digital presence, reach more people, and ultimately increase its ability to receive support.
 
----
 
-## 🎯 Project Goal
 
-The overall goal is to help the foundation build a stronger and more sustainable digital presence and explore ways to increase awareness, engagement, and donations.
-
-> The project follows a data-driven approach:
-> Data → Insights → Decisions → Action → Measurement → Iteration
-
-Rather than implementing changes based only on assumptions, the project aims to:
-
-- understand the foundation's current situation;
-- collect and analyze relevant data;
-- identify the main problems and opportunities;
-- formulate and test hypotheses;
-- implement solutions;
-- measure their impact;
-- iterate based on the results.
-
----
 
 ## 🐎 About the Foundation
 
@@ -33,13 +17,12 @@ Its work is largely supported by voluntary contributions and donations. Caring f
 
 One of the current challenges is therefore not only the direct cost of caring for the animals, but also reaching enough people who are willing and able to support the foundation.
 
----
+
 
 ## 🔎 Current Situation
 
-The foundation currently has a presence on social media, primarily through Instagram (@karpovich_liza__, UA:Засновник фонду Фрі Хорсес, ENG:Founder of the Free Horses Foundation).
+The foundation currently has a presence on social media, primarily through Instagram 
 
-However, most of the available information about the foundation is concentrated within the social media page itself.
 
 This creates several potential problems:
 
