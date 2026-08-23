@@ -68,7 +68,7 @@ Implication for our website
 
 #### 2. Aesthetics, Information Quality, and Trust
 
-The study [*Investigating antecedents and their consequences of usability in online donations: the case of university students' community services programs*](https://www.inderscience.com/info/e_filter.php?aid=92296) found that **aesthetics, information quality, and credibility** positively influence donors' trust, satisfaction, and loyalty toward nonprofit organizations.
+The study [*Investigating antecedents and their consequences of usability in online donations: the case of university students' community services programs*](https://www.inderscience.com/info/e_inarticle.php?artid=92296) found that **aesthetics, information quality, and credibility** positively influence donors' trust, satisfaction, and loyalty toward nonprofit organizations.
 
 Based on these findings, we can define several key criteria for the website design:
 > - **Aesthetics:** A consistent visual identity, High-quality photography, Clean and readable typography, A professional but human visual style.
