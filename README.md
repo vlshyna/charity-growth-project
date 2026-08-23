@@ -129,3 +129,8 @@ Based on the research reviewed above, the website should combine **emotional sto
 
 The overall goal is to create a website that does more than **look professional**. It should make the foundation's work **visible, understandable, verifiable, and trustworthy**.
 
+</br>
+
+# Nonprofit Website: UX/UI design
+
+
