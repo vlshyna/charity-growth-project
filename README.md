@@ -81,7 +81,7 @@ Based on these findings, we can define several key criteria for the website desi
 
 #### 3. Visual Appeal and Human Imagery
 
-Another study found that **visual appeal and images of people** increase perceptions of a nonprofit website's **benevolence and competence**. These perceptions, in turn, influence people's intention to use the website for donations.
+Another study [*The effect of charity website design on perceived consistency and its consequences Available to Purchase*](https://www.emerald.com/intr/article-abstract/33/3/994/184803/The-effect-of-charity-website-design-on-perceived?redirectedFrom=fulltext) found that **visual appeal and images of people** increase perceptions of a nonprofit website's **benevolence and competence**. These perceptions, in turn, influence people's intention to use the website for donations.
 
 Implication for our website
 > Particular attention should therefore be paid to the quality and authenticity of the visual content. **No AI or Stock photos** - Only Real photos of the horses, farm, staff, volunteers etc.
@@ -90,7 +90,7 @@ Implication for our website
 
 #### 4. Transparency and Public Disclosure
 
-The authors of [*An examination of web disclosure and organizational transparency*](https://www.researchgate.net/publication/228264225_An_Examination_of_Web_Disclosure_and_Organizational_Transparency) argue that organizations that voluntarily disclose high-quality **financial and operational information** on their publicly accessible websites are perceived by the public as more open and trustworthy.
+The authors of [*An examination of web disclosure and organizational transparency*](https://www.sciencedirect.com/science/article/abs/pii/S0747563213001684) argue that organizations that voluntarily disclose high-quality **financial and operational information** on their publicly accessible websites are perceived by the public as more open and trustworthy.
 
 Implication for our website
 > Transparency should be an integral part of the website rather than something hidden in a footer or available only upon request. The website should provide access to: Financial reports, Information about how donations are spent, Fundraising goals and outcomes, Operational information, Organizational details, Contact information, Evidence of completed activities and projects
@@ -99,7 +99,7 @@ Implication for our website
 
 #### 5. The Ukrainian Nonprofit Context
 
-It is also important to consider the specific context of the Ukrainian nonprofit sector. The study [*Toward Greater Legitimacy: Online Accountability Practices of Ukrainian Nonprofits*](https://www.researchgate.net/publication/264633222_Toward_Greater_Legitimacy_Online_Accountability_Practices_of_Ukrainian_Nonprofits) highlights several important characteristics of Ukrainian nonprofits:
+It is also important to consider the specific context of the Ukrainian nonprofit sector. The study [*Toward Greater Legitimacy: Online Accountability Practices of Ukrainian Nonprofits*](https://www.mdpi.com/2076-3387/14/1/4) highlights several important characteristics of Ukrainian nonprofits:
 
 - The level of information disclosure among nonprofits is relatively low.
 - Nonprofits that do not provide their physical address tend to receive lower evaluations.
