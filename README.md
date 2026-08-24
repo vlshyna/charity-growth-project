@@ -132,5 +132,8 @@ The overall goal is to create a website that does more than **look professional*
 </br>
 
 # Nonprofit Website: UX/UI design
+To guide the UX/UI design process, I will use research and best practices from the **[Nielsen Norman Group (NN/g)](https://www.nngroup.com/about/)**, a leading UX research and consulting organization focused on usability, user experience, and interaction design. The process will begin with **Information Architecture.** The [Information Architecture Study Guide](https://www.nngroup.com/articles/ia-study-guide/) will be used as a methodological reference.
 
+#### 1. Content Inventory
+The first step is to collect all information currently available about the foundation. The information will be gathered from: Instagram, conversations with the foundation organizers, existing documents and materials. The goal is simply to establish what information currently exists before deciding how it should be organized on the website.📄 [Content Inventory]()
 
